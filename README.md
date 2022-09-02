@@ -1,10 +1,12 @@
 本系统为基于ssm的健身房管理系统
 
-CSDN博客地址：https://blog.csdn.net/m0_47220500/article/details/125158248
+项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
 
-B站运行视频：https://www.bilibili.com/video/BV1oZ4y147om
+![公众号二维码](./运行截图/wechat.png)
 
-项目下载地址：http://shiyuncode.com/details?id=14
+CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/116741257
+
+
 
 
 技术：ssm+jsp+layui等
