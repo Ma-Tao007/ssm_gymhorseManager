@@ -1,6 +1,6 @@
 本系统为基于ssm的健身房管理系统
 
-源码下载：http://manoncode.cn/details?id=14
+源码下载：http://www.manoncode.cn/details?id=14
 
 CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/116741257
 
